@@ -1,2 +1,3 @@
 testing with ssh agent
-testing after shutdown 
+testing after shutdown
+after shutdown required pass, testing after firt pass entered 

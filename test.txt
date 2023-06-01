@@ -3,3 +3,7 @@ testing after shutdown
 after shutdown required pass, testing after firt pass entered
 ssh agent not launched, launched and testing after launch
 script did not work, ill just have to start agent on launch, nbd 
+
+
+
+nauj is gay
